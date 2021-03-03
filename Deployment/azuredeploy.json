@@ -435,7 +435,7 @@
       ],
       "resources": [
         {
-          "apiVersion": "2016-08-01",
+          "apiVersion": "2018-11-01",
           "name": "web",
           "type": "sourcecontrols",
           "condition": "[not(empty(parameters('gitRepoUrl')))]",
@@ -740,7 +740,7 @@
       ],
       "resources": [
         {
-          "apiVersion": "2015-08-01",
+          "apiVersion": "2018-11-01",
           "name": "web",
           "type": "sourcecontrols",
           "condition": "[not(empty(parameters('gitRepoUrl')))]",
@@ -843,7 +843,7 @@
       ],
       "resources": [
         {
-          "apiVersion": "2015-08-01",
+          "apiVersion": "2018-11-01",
           "name": "web",
           "type": "sourcecontrols",
           "condition": "[not(empty(parameters('gitRepoUrl')))]",
@@ -950,7 +950,7 @@
       ],
       "resources": [
         {
-          "apiVersion": "2015-08-01",
+          "apiVersion": "2018-11-01",
           "name": "web",
           "type": "sourcecontrols",
           "condition": "[not(empty(parameters('gitRepoUrl')))]",
