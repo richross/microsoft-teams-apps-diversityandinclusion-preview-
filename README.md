@@ -8,7 +8,7 @@ description: Diversity & Inclusion Connect is a custom Teams app that enables co
 urlFragment: microsoft-teams-apps-diversityandinclusion-preview
 ---
 
-# Diversity & Inclusion (preview)
+# Diversity & Inclusion (preview) pulled from OfficeDev
 
 | [Documentation](https://github.com/OfficeDev/microsoft-teams-apps-diversityandinclusion-preview-/wiki) | [Deployment guide](https://github.com/OfficeDev/microsoft-teams-apps-diversityandinclusion-preview-/wiki/Deployment-guide) | [Architecture](https://github.com/OfficeDev/microsoft-teams-apps-diversityandinclusion-preview-/wiki/Solution-overview) |
 | ---- | ---- | ---- |
